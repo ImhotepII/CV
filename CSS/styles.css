@@ -44,7 +44,7 @@ p {
 
 }
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #E4F9F5 6px;
   border-bottom: none;
   width: 4%;
 }
@@ -75,12 +75,26 @@ a:hover {
   text-align: left;
 
 }
+.skill-net{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: right;
+
+}
 .typing-img{
 
   width: 35%;
   float:left;
   margin-right: 30px;
   margin-bottom: 20px;
+}
+.network-img{
+  height:130px;
+  width: 30%;
+  float:right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+
 }
 
 .intro{
